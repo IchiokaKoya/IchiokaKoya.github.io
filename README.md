@@ -5,7 +5,7 @@
     <title>sample</title>
   </head>
   <body>
-    <h1>別pageジャンプ</h1>
+    <h1>ログインページにジャンプ</h1>
     <p>
       <a href="WebContent/login.jsp">sample2へ</a>
     </p>
