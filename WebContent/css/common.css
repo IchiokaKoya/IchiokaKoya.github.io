@@ -1,0 +1,144 @@
+* {
+	/* background-color:#0000ff;#0404af
+	インテックス#003B90*/
+	background-color: #0404af;
+	text-align: center;
+}
+
+/* タイトル */
+.title {
+	font-size: 30px;
+	border-bottom: 1px solid #ffffff;
+	color: white;
+}
+
+/* サブタイトル */
+.subtitle {
+	font-size: 25px;
+	color: white;
+}
+/* 文字 */
+.letter {
+	font-size: 25px;
+	font-weight: bold;
+	text-stroke: 1px #FFF;
+	color: white;
+}
+/* テキストボックス */
+.text {
+	background-color: white;
+	width: 8em;
+	font-size: 35px;
+}
+
+.underButton {
+	margin-bottom: 20px;
+	cursor: pointer;
+}
+
+/* ボタンの配置 */
+.button {
+	width: 10em;
+	height: 3em;
+	font-size: 15px;
+	font-weight: bold;
+	background-color: #edf1f1;
+	cursor: pointer;
+}
+/* 予約キャンセルボタンの文字の色を変える */
+.cancel {
+	color: red;
+}
+/* ログアウトボタンの大きさの変更 */
+.logout {
+	width: 8em;
+}
+/* 下線 */
+.under {
+	margin-bottom: 35px
+}
+/* エラーを赤文字で出す */
+.errorword {
+	color: red;
+}
+/* 日付変更ボタンを回りこませる */
+.reschedule {
+	display: flex;
+	justify-content: center;
+}
+
+.date {
+	margin-right: 35px;
+	width: 10em;
+	height: 2.5rem;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.return {
+	margin-right: 30px;
+}
+
+.buttonDate {
+	font-weight: bold;
+	border: none;
+	margin: 0 auto;
+	background-color: white;
+	padding: 10px 13px 4px 13px;
+	font-size: 15px;
+}
+
+/* 予約・キャンセル確認 */
+.reserveConfirm {
+	position: absolute;
+	left: 52%;
+	/* background-color: white; */
+	display: inline-block;
+	width: 20rem;
+}
+
+.arrangement {
+	position: relative;
+}
+
+.text-align {
+	text-align: initial;
+	margin-left: 38%;
+}
+
+/*空室 */
+.Vacancy {
+	padding-bottom: 3px;
+	background-color: white;
+}
+
+/*確認ボタンの余白*/
+.topMargin {
+	margin-top: 97px;
+}
+/*予約キャンセルボタンの上の余白*/
+.topMarginButton {
+	margin-top: 61px;
+}
+/*マイページのボタンの配置*/
+.paddingTop {
+	padding-top: 14px;
+}
+
+
+
+
+.inner {
+	margin: 0 auto;
+}
+.form dl {
+	display: flex;
+}
+.form dl dt {
+	width: 50%;
+	text-align: right;
+}
+.form dl dd {
+	width: 50%;
+	text-align: left;
+}
