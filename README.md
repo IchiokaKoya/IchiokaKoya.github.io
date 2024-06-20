@@ -7,7 +7,7 @@
   <body>
     <h1>別pageジャンプ</h1>
     <p>
-      <a href="MeetingRoom/login.jsp">sample2へ</a>
+      <a href="login.jsp">sample2へ</a>
     </p>
   </body>
 </html>
