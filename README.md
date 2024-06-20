@@ -1,1 +1,0 @@
-# IchiokaKoya.github.io
